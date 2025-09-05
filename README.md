@@ -10,16 +10,16 @@ _This project showcases an interactive Sales Trends & Analysis Dashboard built i
   - Data Visualization
 
 #### 📈 Key Features
-- Sales performance tracking by **region, category, and product**  
+- Sales performance tracking by region, category, and product  
 - Top-performing salespersons identification  
 - Monthly and yearly sales trend analysis  
 - Interactive filters for dynamic reporting  
 - Clear and visually appealing dashboard design  
 
 #### 🔑 Insights
-- Identified **top-performing products and categories**  
-- Highlighted **regional sales distribution**  
-- Uncovered **monthly and seasonal sales trends**  
+- Identified top-performing products and categories  
+- Highlighted regional sales distribution
+- Uncovered monthly and seasonal sales trends
 
 #### 📸 Dashboard Preview
-![Dashboard Screenshot](Dashboard/Dashboard.PNG)
+![Dashboard Screenshot](Dashboard.PNG)
